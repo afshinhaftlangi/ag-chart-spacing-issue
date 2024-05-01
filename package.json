@@ -8,8 +8,13 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "ag-charts-vue3": "^9.2.0",
+    "ag-grid-community": "^30.2.1",
+    "ag-grid-enterprise": "^30.2.1",
+    "ag-grid-vue3": "^30.2.1",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "vuetify": "^3.5.6"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
